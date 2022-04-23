@@ -1,4 +1,4 @@
-- ⛵  Working on **open-source OCaml** at [Tarides](https://tarides.com/).
+- ⛵  Worked on **open-source OCaml** at [Tarides](https://tarides.com/).
 
 - 📝  Blogging thoughts on [my website](https://www.craigfe.io/#--articles).
 
